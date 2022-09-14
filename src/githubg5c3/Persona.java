@@ -10,4 +10,10 @@ package githubg5c3;
  */
 public class Persona {
     
+    public static void main(String[] args){
+    System.out.println("hola a todos");
+    System.out.println("hola");
+    int x=4;
+    double y=3;
+    }
 }
